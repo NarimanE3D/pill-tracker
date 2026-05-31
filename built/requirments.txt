@@ -1,0 +1,4 @@
+qtpy
+PySide6
+platformdirs
+pyinstaller
